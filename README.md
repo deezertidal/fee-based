@@ -3,7 +3,7 @@
 如需免费/低端机场，请访问https://raw.githubusercontent.com/deezertidal/freevpn/main/README.md
 ****
 收费机场基本是一分钱一分货，最重要是挑选适合的。  
-以下推荐的付费套餐，仅是套餐之一，纯主管推荐，如需了解详情，请点击链接查看。  
+以下推荐的付费套餐，仅是套餐之一，纯主观推荐，如需了解详情，请点击链接查看。  
 下列机场都是老牌机场，推荐季付。
 ****
 https://share.eleven.observer/auth/register.html?code=ZWy1  
