@@ -1,2 +1,25 @@
 # fee-based
-中高端机场分享
+中高端机场分享  
+如需免费/低端机场，请访问https://raw.githubusercontent.com/deezertidal/freevpn/main/README.md
+****
+收费机场基本是一分钱一分货，最重要是挑选适合的。  
+以下推荐的付费套餐，仅是套餐之一，纯主管推荐，如需了解详情，请点击链接查看。  
+下列机场都是老牌机场，推荐季付。
+****
+https://share.eleven.observer/auth/register.html?code=ZWy1  
+推荐付费套餐：90元/季，每月重置90G流量
+****
+https://user.taggood-5.xyz/#/register?code=0zZLweop  
+推荐付费套餐：160元/季，每月重置250G流量  
+****
+https://invitation.gacloud.ltd/auth/register?code=NjJP  
+推荐付费套餐：117元/季，每月重置150G流量  
+****
+https://dash.catnet.uk/#/register?code=Rbm2CNZr  
+推荐付费套餐：75元/季，每月重置80G流量  
+****
+https://sspcloud.me/#/register?code=rNNaMZb2  
+推荐付费套餐：86元/季，每月重置200G流量  
+****
+https://hutao.cloud/auth/register?code=BBEk  
+推荐付费套餐：51元/季，每月重置450G流量  
