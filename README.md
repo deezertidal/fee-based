@@ -12,6 +12,9 @@ https://share.eleven.observer/auth/register.html?code=ZWy1
 https://user.taggood-5.xyz/#/register?code=0zZLweop  
 推荐付费套餐：160元/季，每月重置250G流量  
 ****
+https://meizhiyuan.cc/index.php#/register?code=4HR1Wl5V  
+推荐付费套餐：68.88元/季，每月重置300G流量  
+****
 https://invitation.gacloud.ltd/auth/register?code=NjJP  
 推荐付费套餐：117元/季，每月重置150G流量  
 ****
