@@ -29,6 +29,7 @@ https://hutao.cloud/auth/register?code=BBEk
 ****
 https://socloud.me/auth/register?code=jdMh  
 推荐付费套餐：74元/季，每月重置100G流量  
+****
 https://www.bygcloud.com/#/register?code=DX4iT5B4  
 推荐付费套餐：66元/季，每月重置140G流量  
 ****
