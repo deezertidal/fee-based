@@ -34,7 +34,7 @@ https://www.bygcloud.com/#/register?code=DX4iT5B4
 推荐付费套餐：66元/季，每月重置140G流量  
 ****
 https://cylink.wtf/auth/register?code=Y1NE  
-推荐付费套餐：53y元/季，每季重置368G流量  
+推荐付费套餐：53元/季，每季重置368G流量  
 ****
 ****
 ****
