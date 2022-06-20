@@ -8,7 +8,6 @@
 ****
 https://www.bygcloud.com/#/register?code=DX4iT5B4  
 推荐付费套餐：66元/季，每月重置140G流量  
-★自用推荐★
 ****
 https://share.eleven.observer/auth/register.html?code=ZWy1  
 推荐付费套餐：90元/季，每月重置90G流量
