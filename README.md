@@ -112,6 +112,4 @@
 半年、一年、二年，8折优惠码：z90  
 <br>  
 <br>  
-<br>  
-[ios端上网工具店铺](https://xiaohuojian8.com/aff/2526.html)  
-含Shadowrocket，QuantumultX等
+附[科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)  
