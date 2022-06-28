@@ -56,14 +56,6 @@
 ...  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/SSP.png)  
 ****
-[socloud](https://socloud.me/auth/register?code=jdMh)  
-74元/季，每月重置100G流量  
-149元/季，每月重置300G流量  
-...
-半年套餐 95 折优惠码: 2022z95  
-年付套餐 90 折优惠码: 2022z90  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/SOCLOUD.png)  
-****
 [CYLINK](https://cylink.wtf/auth/register?code=Y1NE)  
 52.8元/季，每季（注意是每季）重置368G流量  
 82.8元/季，每季（注意是每季）重置688G流量  
