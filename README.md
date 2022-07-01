@@ -1,9 +1,7 @@
 # fee-based
 中高端付费机场分享  
 如需免费/低端机场，请移步至[免费公益机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)  
-如有长期科学上网需求，别折腾了，老实付费。   
 ****
-收费机场基本是一分钱一分货，最重要是挑选适合的。    
 下列机场都是老牌机场，推荐季付。  
 <br>  
 <br>  
