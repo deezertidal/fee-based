@@ -20,6 +20,11 @@
 季付97折优惠码BYG03OFFQU  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/byg.png)  
 ****
+[奶昔Nexitally](https://naixii.com/signupbyemail.aspx?MemberCode=4abe2692a864433d9132614c7da1cd0920220701191029)  
+624元/年，每月重置200G流量  
+1048元/年，每月重置500G流量  
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/nx.png)  
+****
 [Nerwo-Nerworks](https://share.eleven.observer/auth/register.html?code=ZWy1)  
 90元/季，每月重置90G流量  
 110元/季，每月重置300G流量  
