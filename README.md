@@ -7,6 +7,12 @@
 <br>  
 <br>  
 ****
+## 推荐[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
+75元/季，每月重置255G流量  
+105元/季，每月重置420G流量  
+135元/季，每月重置540G流量  
+...
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/bty.png)  
 ## [美汁源](https://meizhiyuan.cc/index.php#/register?code=4HR1Wl5V)  
 28.88元/季，每月重置99G流量  
 45.88元/季，每月重置150G流量  
