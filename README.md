@@ -66,4 +66,4 @@
 9折优惠码：ADD  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/ADD.png)  
 ****
-附[科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)  
+[科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)  
