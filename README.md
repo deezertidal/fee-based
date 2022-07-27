@@ -16,7 +16,6 @@
 68.88元/季，每月重置300G流量  
 108.88元/季，每月重置688G流量  
 ...  
-八折优惠码BFYH  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/mzy.png)  
 ****
 ### :white_check_mark:[快连](https://kuailian.org/#/register?code=EWoyrwnb)  
