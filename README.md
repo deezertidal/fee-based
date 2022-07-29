@@ -1,5 +1,5 @@
 # :airplane:付费机场分享  
-如需免费/低端机场，请移步至[免费公益机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)  
+如需免费/低端机场，请移步至[免费公益机场](https://github.com/deezertidal/freevpn/blob/main/README.md)  
 ****
 下列机场都是老牌机场，推荐季付。  
 <br>  
