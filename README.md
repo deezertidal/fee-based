@@ -62,7 +62,6 @@
 25元1T一次性永久流量  
 50元5T一次性永久流量  
 ...  
-9折优惠码：ADD  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/ADD.png)  
 ****
 [科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)  
