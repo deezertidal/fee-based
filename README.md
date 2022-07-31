@@ -4,7 +4,7 @@
 下列机场都是老牌机场，推荐季付。  
 <br>  
 ****
-### :white_check_mark:推荐[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
+### :white_check_mark:[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
 75元/季，每月重置255G流量  
 105元/季，每月重置420G流量  
 135元/季，每月重置540G流量  
