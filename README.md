@@ -18,12 +18,6 @@
 ...  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/mzy.png)  
 ****
-### :white_check_mark:[快连](https://kuailian.org/#/register?code=EWoyrwnb)  
-30元/季，每月重置64G流量  
-60元/季，每月重置158G流量  
-120元/季，每月重置512G流量  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/kl.png)  
-****
 ### :white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)  
 66元/季，每月重置140G流量  
 84元/季，每月重置230G流量  
