@@ -1,9 +1,8 @@
 # :airplane:付费机场分享  
-如需免费/低端机场，请移步至[免费公益机场](https://github.com/deezertidal/freevpn/blob/main/README.md)  
+* 如需免费/低端机场，请移步至[免费公益机场](https://github.com/deezertidal/freevpn/blob/main/README.md)  
 ****
-下列机场都是老牌机场，推荐季付。  
-鉴于近期某大型机场跑路事件，推荐月付。以下机场随时跑路，可能就是下一秒，本人对此概不负责。  
-<br>  
+* ~~下列机场都是老牌机场，推荐季付。~~  
+* 鉴于近期某大型机场跑路事件，推荐月付  
 ****
 ### :white_check_mark:[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
 75元/季，每月重置255G流量  
