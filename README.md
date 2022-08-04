@@ -41,8 +41,8 @@
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/SSP.png)  
 ****
 [CYLINK](https://cylink.wtf/auth/register?code=Y1NE)  
-52.8元/季，每季（注意是每季）重置368G流量  
-82.8元/季，每季（注意是每季）重置688G流量  
+52.8元/季，每季重置368G流量  
+82.8元/季，每季重置688G流量  
 ....  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/CYLINK.png)  
 ****
