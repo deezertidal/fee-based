@@ -19,6 +19,13 @@
 ...  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/mzy.png)  
 ****
+### :white_check_mark:[iQzone](https://uuu.glass/#/register?code=ve5UsPeX)  
+69元/季，每月重置150G流量  
+145元/季，每月重置400G流量  
+52元/永久，共500G流量  
+...  
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/iqzone.png)  
+****
 ### :white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)  
 66元/季，每月重置140G流量  
 84元/季，每月重置230G流量  
