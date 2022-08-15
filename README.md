@@ -10,7 +10,7 @@
 ...
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/bty.png)  
 ****
-### :white_check_mark:[美汁源](https://meizhiyuan.cc/index.php#/register?code=4HR1Wl5V)  
+### :white_check_mark:[美汁源](https://meizhiyuan.cc/#/register?code=pRNmdOjq)  
 28.88元/季，每月重置99G流量  
 45.88元/季，每月重置150G流量  
 68.88元/季，每月重置300G流量  
