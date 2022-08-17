@@ -72,4 +72,4 @@
 336元/季，每月重置500G流量  
 ![Image text](https://raw.githubusercontent.com/deezertidal/fee-based/main/IMG/nx.png)
 ****
-[科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)  
+[科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)   
