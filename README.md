@@ -34,7 +34,7 @@
 季付97折优惠码BYG03OFFQU  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/byg.png)  
 ****
-[TAG](https://user.taggood-5.xyz/#/register?code=0zZLweop)  
+[TAG](https://tagss.pro/#/register?code=0zZLweop)  
 160元/季，每月重置250G流量  
 300元/季，每月重置500G流量  
 ...  
