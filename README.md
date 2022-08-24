@@ -11,14 +11,6 @@
 ...
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/bty.png)  
 ****
-### :white_check_mark:[美汁源](https://meizhiyuan.cc/index.php#/register?code=pRNmdOjq)  
-28.88元/季，每月重置99G流量  
-45.88元/季，每月重置150G流量  
-68.88元/季，每月重置300G流量  
-108.88元/季，每月重置688G流量  
-...  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/mzy.png)  
-****
 ### :white_check_mark:[iQzone](https://uuu.glass/#/register?code=ve5UsPeX)  
 69元/季，每月重置150G流量  
 145元/季，每月重置400G流量  
