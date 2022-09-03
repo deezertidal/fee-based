@@ -4,6 +4,10 @@
 * ### ⚠️不推荐年付！为方便比对，以下列出的价格均为季付价   
  
 ****
+### :white_check_mark:[奶昔](https://naixii.com/signupbyemail.aspx?MemberCode=4abe2692a864433d9132614c7da1cd0920220701191029)  
+336元/季，每月重置500G流量  
+![Image text](https://raw.githubusercontent.com/deezertidal/fee-based/main/IMG/nx.png)
+****
 ### :white_check_mark:[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
 75元/季，每月重置255G流量  
 105元/季，每月重置420G流量  
@@ -58,10 +62,6 @@
 ...  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/ADD.png)  
 ****
-[奶昔](https://naixii.com/signupbyemail.aspx?MemberCode=4abe2692a864433d9132614c7da1cd0920220701191029)  
-速蛙替代品
-336元/季，每月重置500G流量  
-![Image text](https://raw.githubusercontent.com/deezertidal/fee-based/main/IMG/nx.png)
-****
+
 [科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)   
 
