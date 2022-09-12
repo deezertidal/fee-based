@@ -58,9 +58,8 @@
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/dgy.png)  
 ****
 [安大毒](https://jc.hgdbk.xyz/#/register?code=heNWfiwN)  
-10元320G一次性永久流量  
-25元1T一次性永久流量  
-50元5T一次性永久流量  
+价格有变动 请以官网价格为准
+
 ...  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/ADD.png)  
 ****
