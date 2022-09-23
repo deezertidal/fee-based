@@ -5,6 +5,20 @@
 * ### ⚠️不推荐年付！为方便比对，以下列出的价格均为季付价   
    
 ****
+### :white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)  
+66元/季，每月重置140G流量  
+84元/季，每月重置230G流量  
+120元/季，每月重置400G流量  
+...  
+季付97折优惠码BYG03OFFQU  
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/byg.png)  
+****
+### [TAG](https://tagss.pro/#/register?code=0zZLweop)  
+160元/季，每月重置250G流量  
+300元/季，每月重置500G流量  
+...  
+****
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/TAG.png)  
 ### :white_check_mark:[奶昔](https://naixii.com/signupbyemail.aspx?MemberCode=4abe2692a864433d9132614c7da1cd0920220701191029)  
 336元/季，每月重置500G流量  
 ![Image text](https://raw.githubusercontent.com/deezertidal/fee-based/main/IMG/nx.png)
@@ -22,20 +36,7 @@
 52元/永久，共500G流量  
 ...  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/iqzone.png)  
-****
-### :white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)  
-66元/季，每月重置140G流量  
-84元/季，每月重置230G流量  
-120元/季，每月重置400G流量  
-...  
-季付97折优惠码BYG03OFFQU  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/byg.png)  
-****
-[TAG](https://tagss.pro/#/register?code=0zZLweop)  
-160元/季，每月重置250G流量  
-300元/季，每月重置500G流量  
-...  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/TAG.png)  
+
 ****
 [少数派](https://sspcloud.me/#/register?code=rNNaMZb2)  
 86元/季，每月重置200G流量  
