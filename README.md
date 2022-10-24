@@ -13,8 +13,7 @@
 季付97折优惠码BYG03OFFQU  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/byg.png)  
 
-****
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/TAG.png)  
+****  
 ### :white_check_mark:[奶昔](https://naixii.com/signupbyemail.aspx?MemberCode=4abe2692a864433d9132614c7da1cd0920220701191029)  
 336元/季，每月重置500G流量  
 ![Image text](https://raw.githubusercontent.com/deezertidal/fee-based/main/IMG/nx.png)
