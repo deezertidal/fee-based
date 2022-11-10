@@ -52,12 +52,7 @@
 ....  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/dgy.png)  
 ****
-~~[安大毒](https://jc.hgdbk.xyz/#/register?code=heNWfiwN)  
-价格有变动 请以官网价格为准
-官网品味比较低劣~~  
-...  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/ADD.png)  
-****
+
 
 [科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)   
 
