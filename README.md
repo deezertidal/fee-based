@@ -25,7 +25,11 @@
 ...
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/bty.png)  
 ****
-### :white_check_mark:[iQzone](https://uuu.glass/#/register?code=ve5UsPeX)  
+<details>
+
+<summary>点击展开其他机场</summary>  
+
+### :white_check_mark:[iQzone](https://uuu.glass/#/register?code=ve5UsPeX)   
 69元/季，每月重置150G流量  
 145元/季，每月重置400G流量  
 52元/永久，共500G流量  
@@ -52,7 +56,7 @@
 ....  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/dgy.png)  
 ****
-
+</details>
 
 [科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)   
 
