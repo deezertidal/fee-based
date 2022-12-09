@@ -14,9 +14,11 @@
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/byg.png)  
 
 ****  
-### :white_check_mark:[奶昔](https://naixii.com/signupbyemail.aspx?MemberCode=4abe2692a864433d9132614c7da1cd0920220701191029)  
-336元/季，每月重置500G流量  
-![Image text](https://raw.githubusercontent.com/deezertidal/fee-based/main/IMG/nx.png)
+### :white_check_mark:[忍者云](https://renzhe.cloud/auth/register?code=MHm4)  
+87元/季，每月重置300G流量  
+200元/季，每月重置750G流量  
+...
+![Image text](https://raw.githubusercontent.com/deezertidal/fee-based/main/IMG/renzhe.png)
 ****
 ### :white_check_mark:[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
 75元/季，每月重置255G流量  
