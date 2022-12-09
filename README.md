@@ -37,7 +37,7 @@
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/iqzone.png)  
 
 ****
-[少数派](https://sspcloud.me/#/register?code=rNNaMZb2)  
+[少数派](https://sspcloud.net/#/register?code=rNNaMZb2)  
 86元/季，每月重置200G流量  
 130元/季，每月重置300G流量    
 258元/年，一次性1.2T流量
