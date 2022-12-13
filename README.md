@@ -10,8 +10,7 @@
 84元/季，每月重置230G流量  
 120元/季，每月重置400G流量  
 ...  
-季付97折优惠码BYG03OFFQU  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/byg.png)  
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/baiyg.png)  
 
 ****  
 
