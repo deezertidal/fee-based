@@ -4,6 +4,14 @@
 * ### 如需免费/低端机场，请移步至[免费公益机场](https://github.com/deezertidal/freevpn/blob/main/README.md)  
 * ### ⚠️不推荐年付！为方便比对，以下列出的价格均为季付价   
     
+****  
+
+### :white_check_mark:[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
+75元/季，每月重置255G流量  
+105元/季，每月重置420G流量  
+135元/季，每月重置540G流量  
+...
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/bty.png)      
 ****
 ### :white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)  
 66元/季，每月重置140G流量  
@@ -12,14 +20,7 @@
 ...  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/baiyg.png)  
 
-****  
 
-#### :white_check_mark:[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
-75元/季，每月重置255G流量  
-105元/季，每月重置420G流量  
-135元/季，每月重置540G流量  
-...
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/bty.png)  
 ****
 <details>
 
