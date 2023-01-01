@@ -6,7 +6,7 @@
     
 ****  
 
-### :white_check_mark:[自用白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)  
+### 自用:white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)  
 66元/季，每月重置140G流量  
 84元/季，每月重置230G流量  
 120元/季，每月重置400G流量  
