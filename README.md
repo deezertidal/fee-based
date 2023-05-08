@@ -6,11 +6,11 @@
 ****  
 
 ## 自用:white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)  
-66元/季，每月重置140G流量  
-84元/季，每月重置230G流量  
-120元/季，每月重置400G流量  
+99元/季，每月重置150G流量  
+126元/季，每月重置250G流量  
+156元/季，每月重置400G流量  
 ...  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/baiyg.png)  
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/byg1.png)  
 
 
 ****
