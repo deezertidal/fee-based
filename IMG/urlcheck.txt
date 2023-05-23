@@ -1,3 +1,3 @@
-05231124
-valid links: 124
-invalid links: 0
+05231424
+valid links: 86
+invalid links: 38
