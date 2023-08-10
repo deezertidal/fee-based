@@ -14,6 +14,15 @@
 
 
 ****
+## :white_check_mark:[魔戒](https://mojie.me/#/register?code=tq2kydAz)  
+15元130G不限时  
+42元120G不限时  
+69元750G不限时  
+...  
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/mj.png)  
+
+
+****
 ## :white_check_mark:[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
 75元/季，每月重置255G流量  
 105元/季，每月重置420G流量  
