@@ -16,7 +16,7 @@
 ****
 ## :white_check_mark:[魔戒](https://mojie.me/#/register?code=tq2kydAz)  
 15元130G不限时  
-42元120G不限时  
+42元420G不限时  
 69元750G不限时  
 ...  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/mj.png)  
