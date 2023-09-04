@@ -23,12 +23,12 @@
 
 
 ****
-## :white_check_mark:[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
-75元/季，每月重置255G流量  
-105元/季，每月重置420G流量  
-135元/季，每月重置540G流量  
+## :white_check_mark:[泡泡狗](https://www.paopao.dog/#/register?code=nnaNrj7S)  
+22.5元/月，每月重置70G流量  
+37.5元/季，每月重置110G流量  
+60元/季，每月重置210G流量  
 ...
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/bty.png)      
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/ppd.png)      
 ****
 <details>
 
