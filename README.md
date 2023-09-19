@@ -4,8 +4,19 @@
 * ###### 为方便比对，以下列出的价格均为季付价   
     
 ****  
+## :white_check_mark:[飞机云](https://feijicloud.com/auth/register?code=iMgM)  
+30元/季，每月重置50G流量  
+48元/季，每月重置100G流量  
+78元/季，每月重置200G流量  
+108元/季,每月重置300G流量  
+150元/季，每月重置/600G流量（IPLC专线节点）  
+☆支持ChatGPT/流媒体/Tiktok解锁  
+...  
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/fly.png)  
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/fly1.png) 
 
-## 自用:white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)  
+****
+## :white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)  
 99元/季，每月重置150G流量  
 126元/季，每月重置250G流量  
 156元/季，每月重置400G流量  
@@ -24,7 +35,7 @@
 
 ****
 ## :white_check_mark:[泡泡狗](https://www.paopao.dog/#/register?code=nnaNrj7S)  
-22.5元/月，每月重置70G流量  
+22.5元/季，每月重置70G流量  
 37.5元/季，每月重置110G流量  
 60元/季，每月重置210G流量  
 ...
