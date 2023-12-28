@@ -16,15 +16,7 @@
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/fly1.png) 
 
 ****
-## :white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=n0NQEGI0)  
-99元/季，每月重置150G流量  
-126元/季，每月重置250G流量  
-156元/季，每月重置400G流量  
-...  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/byg1.png)  
 
-
-****
 ## :white_check_mark:[魔戒](https://mojie.me/#/register?code=tq2kydAz)  
 15元130G不限时  
 42元420G不限时  
