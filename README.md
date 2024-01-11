@@ -26,7 +26,7 @@
 
 
 ****
-## :white_check_mark:[泡泡狗](https://www.paopao.dog/#/register?code=nnaNrj7S)  
+## :white_check_mark:[泡泡狗](https://01111112.99iepl.com/#/register?code=nnaNrj7S)  
 22.5元/季，每月重置70G流量  
 37.5元/季，每月重置110G流量  
 60元/季，每月重置210G流量  
