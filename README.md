@@ -16,7 +16,15 @@
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/fly1.png) 
 
 ****
+## :white_check_mark:[MESL](https://in.mesl.cloud/#/register?code=IjOBnxVz)  
+50元/月，每月重置200G流量  
+70元/月，每月重置300G流量  
+110元/月，每月重置500G流量  
+....  
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/mesl.png)  
 
+
+****
 ## :white_check_mark:[魔戒](https://mojie.me/#/register?code=tq2kydAz)  
 15元130G不限时  
 42元420G不限时  
