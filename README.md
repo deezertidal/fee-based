@@ -15,13 +15,6 @@
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/fly.png)  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/fly1.png) 
 
-****
-## :white_check_mark:[MESL](https://in.mesl.cloud/#/register?code=IjOBnxVz)  
-50元/月，每月重置200G流量  
-70元/月，每月重置300G流量  
-110元/月，每月重置500G流量  
-....  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/mesl.png)  
 
 
 ****
@@ -33,13 +26,6 @@
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/mj.png)  
 
 
-****
-## :white_check_mark:[泡泡狗](https://01111112.99iepl.com/#/register?code=nnaNrj7S)  
-22.5元/季，每月重置70G流量  
-37.5元/季，每月重置110G流量  
-60元/季，每月重置210G流量  
-...
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/ppd.png)      
 ****
 <details>
 
