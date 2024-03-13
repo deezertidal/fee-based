@@ -5,15 +5,14 @@
     
 ****  
 ## :white_check_mark:[飞机云](https://feijicloud.com/auth/register?code=iMgM)  
-30元/季，每月重置50G流量  
-48元/季，每月重置100G流量  
-78元/季，每月重置200G流量  
-108元/季,每月重置300G流量  
-150元/季，每月重置/600G流量（IPLC专线节点）  
+45元/季，每月重置50G流量  
+60元/季，每月重置100G流量  
+90元/季，每月重置200G流量  
+120元/季,每月重置350G流量  
+168元/季，每月重置/600G流量（IPLC专线节点）  
 ☆支持ChatGPT/流媒体/Tiktok解锁  
 ...  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/fly.png)  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/fly1.png) 
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/fly2.png)  
 
 
 
