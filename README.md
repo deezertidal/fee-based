@@ -5,7 +5,7 @@
 * ###### 为方便比对，以下列出的价格均为季付价   
     
 ****  
-## :white_check_mark:[飞机云](https://feiji27.com/auth/register?code=iMgM)  
+## :white_check_mark:[飞机云](https://feiji79.com/auth/register?code=iMgM)  
 45元/季，每月重置50G流量  
 60元/季，每月重置100G流量  
 90元/季，每月重置200G流量  
