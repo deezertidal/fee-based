@@ -37,27 +37,6 @@
 135元/季，每月重置540G流量  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/bty.png)      
 ****
-### :white_check_mark:[iQzone](https://uuu.glass/#/register?code=ve5UsPeX)   
-69元/季，每月重置150G流量  
-145元/季，每月重置400G流量  
-52元/永久，共500G流量  
-...  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/iqzone.png)  
-
-****
-### :white_check_mark:[少数派](https://sspcloud.net/#/register?code=rNNaMZb2)  
-86元/季，每月重置200G流量  
-130元/季，每月重置300G流量    
-258元/年，一次性1.2T流量
-...  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/SSP.png)  
-****
-### :white_check_mark:[CYLINK](https://cylink.wtf/auth/register?code=Y1NE)   
-52.8元/季，每季重置368G流量  
-82.8元/季，每季重置688G流量  
-....  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/CYLINK.png)  
-****
 ### :white_check_mark:[大哥云](https://www.dageyun.net/#/register?code=79MYGsGa)  
 69元/季，每月重置200G流量  
 129元/季，每月重置300G流量  
