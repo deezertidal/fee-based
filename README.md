@@ -7,11 +7,12 @@
 ****
 ## :white_check_mark:[魔戒](https://47.112.97.173:5000/#/register?code=tq2kydAz)  
 19.9元130G不限时  
+29.9元210G不限时  
 52元420G不限时  
 85元750G不限时  
 ...  
 
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/mj1.png)  
+![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/mj0.png)  
 
 
 ****  
