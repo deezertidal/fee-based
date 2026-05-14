@@ -25,23 +25,5 @@
 ☆支持ChatGPT/流媒体/Tiktok解锁  
 ...  
 ![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/fly2.png)  
-<details>
 
-<summary>点击展开其他机场</summary>  
-
-### :white_check_mark:[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
-75元/季，每月重置255G流量  
-105元/季，每月重置420G流量  
-135元/季，每月重置540G流量  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/bty.png)      
-****
-### :white_check_mark:[大哥云](https://www.dageyun.net/#/register?code=79MYGsGa)  
-69元/季，每月重置200G流量  
-129元/季，每月重置300G流量  
-....  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/dgy.png)  
-****
-</details>
-
-[科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)   
 
