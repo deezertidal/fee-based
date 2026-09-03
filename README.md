@@ -5,7 +5,7 @@
 * ###### 为方便比对，以下列出的价格均为季付价   
 
 ****
-## :white_check_mark:[魔戒](https://mojie.me/#/register?code=tq2kydAz)  
+## :white_check_mark:[魔戒](https://mojie.work/#/register?code=tq2kydAz)  
 19.9元130G不限时  
 29.9元210G不限时  
 52元420G不限时  
